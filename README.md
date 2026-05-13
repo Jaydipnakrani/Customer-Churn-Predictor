@@ -25,3 +25,7 @@ It predicts whether a customer is likely to churn based on customer information.
 
 ```bash
 pip install -r requirements.txt
+
+## Live Demo
+
+https://customer-churn-predictor-gw7ugtznrde4xssr5cwq9h.streamlit.app/
